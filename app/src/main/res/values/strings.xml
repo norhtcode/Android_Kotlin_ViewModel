@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Kotlin_ViewModel</string>
+    <string name="convert">Convert</string>
+    <string name="resultText">0</string>
+</resources>
