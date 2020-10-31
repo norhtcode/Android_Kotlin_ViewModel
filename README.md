@@ -2,8 +2,8 @@
 
 An Android Jetpack ViewModle Tutorial.
 
-"The main activity provides an empty container (main_activity.xml) space in form of a FrameLayout, in which content will appear.
-The FrameLayout container is just a placeholder which will be replaced at runtime by the content of the first screen that is to appear when the app launches. This content will typically take the form of a Fragment (main_fragment.xml)."
+The main activity provides an empty container (main_activity.xml) space in form of a FrameLayout, in which content will appear.
+The FrameLayout container is just a placeholder which will be replaced at runtime by the content of the first screen that is to appear when the app launches. This content will typically take the form of a Fragment (main_fragment.xml).
 
 
 ## Description
